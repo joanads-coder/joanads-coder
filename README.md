@@ -58,6 +58,3 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc99ff&height=120&section=footer"/>
-- Certificações em Análise de Dados e Desenvolvimento Web
-
-Em busca de oportunidades desafiante onde eu possa aplicar minhas habilidades e contribuir para o crescimento da organização.
