@@ -3,8 +3,8 @@
 
 <h1>
     <a href="https://github.com/joanads-coder
-     <img align="center" alt="Logo Rayane Bonheur" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
-    <span>Rayane Bonheur</span>
+     <img align="center" alt="Logo Joana Daniely" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
+    <span>Joana Daniely</span>
 </h1>
 
 <p align="justify">  Trabalho como análista de Dados. Sou uma mistura de tecnologia, arte no meu modo geral, música. Quando não estou codificando, estou por aí em minhas aventuras.
