@@ -7,7 +7,7 @@
     <span>Joana Daniely</span>
 </h1>
 
-<p align="justify">  Trabalho como análista de Dados. Sou uma mistura de tecnologia, arte no meu modo geral, música. Quando não estou codificando, estou por aí em minhas aventuras.
+<p align="justify"> Análista de Dados em formação. Sou uma mistura de tecnologia, arte no meu modo geral, música. Quando não estou codificando, estou por aí em minhas aventuras.
 
 
 <br>
