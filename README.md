@@ -1,11 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc99ff&height=120&section=header"/>
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header"/>
+  <img alt="Typing illustration by Storyset" height="300" src="https://github.com/joanads-coder/joanads-coder/blob/main/Typing.gif?raw=true">
+</div>
 
-<h1>
-    <a href="https://github.com/joanads-coder
-     <img align="center" alt="Logo Joana Daniely" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
-    <span>Joana Daniely</span>
-</h1>
 
 <p align="justify"> Análista de Dados em formação. Sou uma mistura de tecnologia, arte no meu modo geral, música. Quando não estou codificando, estou por aí em minhas aventuras.
 
@@ -43,7 +39,8 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
   ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -54,6 +51,7 @@
 
 
 [![Gmail](https://img.shields.io/badge/-gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](jdaniely37@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/www.linkedin.com/in/joana-daniely-8a5990324)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc99ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header"/>
