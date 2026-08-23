@@ -29,8 +29,7 @@
   <img align="center" alt="SQL" height="30" width="40" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" />
   <img align="center" alt="SQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" />
-</div>
+  
 
 
 <h2 id="tech"> Principais Tecnologias Utilizadas</h2>
